@@ -1,0 +1,1 @@
+{"version":3,"file":"StreamrClientError.js","sourceRoot":"","sources":["../../src/StreamrClientError.ts"],"names":[],"mappings":";;;AAQA,MAAa,kBAAmB,SAAQ,KAAK;IAIzC,YAAY,OAAe,EAAE,IAA4B;QACrD,KAAK,CAAC,OAAO,CAAC,CAAA;QACd,IAAI,CAAC,IAAI,GAAG,IAAI,CAAA;QAChB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC,WAAW,CAAC,IAAI,CAAA;IACrC,CAAC;CACJ;AATD,gDASC"}
